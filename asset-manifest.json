@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SinghNeha26/Know-Your-Movie/static/css/main.0461342d.chunk.css",
+    "main.js": "/SinghNeha26/Know-Your-Movie/static/js/main.312c8ae1.chunk.js",
+    "main.js.map": "/SinghNeha26/Know-Your-Movie/static/js/main.312c8ae1.chunk.js.map",
+    "runtime-main.js": "/SinghNeha26/Know-Your-Movie/static/js/runtime-main.6a1adc0c.js",
+    "runtime-main.js.map": "/SinghNeha26/Know-Your-Movie/static/js/runtime-main.6a1adc0c.js.map",
+    "static/js/2.4cd74825.chunk.js": "/SinghNeha26/Know-Your-Movie/static/js/2.4cd74825.chunk.js",
+    "static/js/2.4cd74825.chunk.js.map": "/SinghNeha26/Know-Your-Movie/static/js/2.4cd74825.chunk.js.map",
+    "index.html": "/SinghNeha26/Know-Your-Movie/index.html",
+    "static/css/main.0461342d.chunk.css.map": "/SinghNeha26/Know-Your-Movie/static/css/main.0461342d.chunk.css.map",
+    "static/js/2.4cd74825.chunk.js.LICENSE.txt": "/SinghNeha26/Know-Your-Movie/static/js/2.4cd74825.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a1adc0c.js",
+    "static/js/2.4cd74825.chunk.js",
+    "static/css/main.0461342d.chunk.css",
+    "static/js/main.312c8ae1.chunk.js"
+  ]
+}
